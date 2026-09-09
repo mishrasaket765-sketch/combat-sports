@@ -1,0 +1,536 @@
+PRIVACY POLICY
+Effective Date: September 4, 2026
+Last Updated: September 4, 2026
+Combat Sports Tech LLC (“Combat Sports Tech,” “we,” “us,” or “our”) respects your privacy and
+is committed to protecting the information entrusted to us.
+This Privacy Policy explains how information is collected, used, processed, stored, disclosed, and
+protected when you download, access, register for, or use the Combat Sports Analysis mobile
+application and its related services (collectively, the “Service”).
+By accessing or using the Service, you acknowledge that you have read and understood this Privacy
+Policy.
+
+1. AGE REQUIREMENT AND CHILDREN'S PRIVACY
+Combat Sports Analysis is intended for individuals 13 years of age or older.
+You must be at least 13 years old to create an account, subscribe to, access, or use the Service.
+The Service is not intended for children under 13, and Combat Sports Tech does not knowingly seek
+to collect personal information from children under 13.
+If we become aware that personal information from a child under 13 has been collected in
+circumstances where such collection is not legally permitted, we will take reasonable steps to delete
+such information.
+
+2. INFORMATION WE COLLECT AND ACCESS
+To operate and administer the Service, Combat Sports Tech may collect and access limited account
+and administrative information.
+Depending on how you use the Service, this information may include:
+•
+Name;
+•
+Email address;
+•
+Phone number;
+•
+Account identi er;
+•
+Authentication information; and
+•
+Information necessary to administer your account and subscription.
+Combat Sports Tech does not have routine access to view individual users' private training and
+performance information entered or uploaded through the application.
+This may include:
+
+fi
+
+•
+•
+•
+•
+•
+
+Workout and training logs;
+Performance ratings;
+Questionnaire responses;
+Sparring information;
+Training history;
+
+•
+Performance statistics;
+•
+Training goals;
+•
+Injury information;
+•
+Fatigue and recovery information;
+•
+Nutrition information;
+•
+Notes;
+•
+Uploaded training and sparring videos; and
+•
+Other private training or performance information submitted through the application.
+Such information may be automatically stored and processed by the technical systems and service
+providers required to operate the Service.
+
+3. ACCOUNT INFORMATION
+When you create, access, or maintain an account, we may collect information necessary to establish
+and administer your account.
+This may include:
+•
+Name;
+•
+Email address;
+•
+Phone number;
+•
+Account identi ers; and
+•
+Information required for authentication and account management.
+We may use this information for legitimate administrative and operational purposes, including
+account management, subscription administration, customer support, security, and important
+Service communications.
+
+4. TRAINING AND PERFORMANCE INFORMATION
+Combat Sports Analysis allows users to record information relating to training, athletic
+performance, and combat-sports activities.
+Depending on the features you use, this may include:
+
+fi
+
+•
+Workouts;
+•
+Training sessions;
+•
+Combat-sports activities;
+•
+Performance ratings;
+•
+Questionnaire responses;
+•
+Sparring information;
+•
+Training goals;
+•
+Training frequency;
+•
+Performance statistics;
+•
+Training history;
+•
+Fatigue information;
+•
+Recovery information; and
+•
+Other information you choose to record.
+The application may automatically process this information to provide features such as statistics,
+graphs, averages, performance trends, and training-history functionality.
+
+5. INJURY, FITNESS, RECOVERY, AND NUTRITION
+INFORMATION
+Users may voluntarily enter information concerning injuries, physical condition, fatigue, recovery,
+tness, nutrition, or related subjects.
+Depending on applicable law and the nature of the information, certain information may constitute
+sensitive personal information.
+Such information is processed to provide the functionality selected and requested by the user.
+Combat Sports Tech does not have routine access to view individual users' injury, recovery, tness,
+or nutrition information entered into the application.
+Combat Sports Analysis is not a healthcare provider. Information stored or processed through the
+Service is not intended to constitute a medical record, medical diagnosis, or medical treatment.
+
+6. VIDEOS, IMAGES, AND USER CONTENT
+The Service may allow users to upload training videos, sparring videos, images, notes, and other
+materials.
+Combat Sports Tech does not have routine access to view users' uploaded training or sparring
+videos.
+Uploaded content may nevertheless be stored, transmitted, and technically processed by the
+infrastructure and service providers necessary to provide the application's functionality.
+Combat Sports Tech does not claim ownership of videos or other content that users own and upload
+through the Service.
+Technical service providers may process or access uploaded les where technically necessary for
+purposes including:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Storage;
+Transmission;
+Application functionality;
+Infrastructure maintenance;
+Security;
+Troubleshooting;
+Data recovery; and
+Compliance with applicable legal obligations.
+
+7. CONTENT CONTAINING OTHER INDIVIDUALS
+
+fi
+
+Training and sparring videos may contain other individuals, including training partners, coaches,
+competitors, or spectators.
+
+fi
+
+fi
+
+Combat Sports Tech does not have routine access to view individual users' private training and
+performance information.
+
+You are responsible for ensuring that you have obtained any consent, permission, release, or other
+lawful authorization required to record, upload, store, or process content containing another
+individual.
+You must not upload content that violates another person's:
+•
+•
+•
+•
+•
+
+Privacy rights;
+Intellectual-property rights;
+Publicity rights;
+Con dentiality rights; or
+Other legal rights.
+
+8. HOW INFORMATION IS PROCESSED
+Although Combat Sports Tech does not have routine access to view users' private training
+information, the application and its underlying technical infrastructure may automatically process
+such information to provide requested functionality.
+Processing may include:
+•
+Saving workouts and training sessions;
+•
+Calculating statistics;
+•
+Generating graphs and reports;
+•
+Calculating averages;
+•
+Displaying performance trends;
+•
+Storing questionnaire responses;
+•
+Maintaining training history;
+•
+Storing videos and uploaded content;
+•
+Synchronizing information where applicable;
+•
+Maintaining account functionality; and
+•
+Providing other features requested by the user.
+This processing is necessary to operate and deliver the Service.
+
+9. PAYMENT AND TRANSACTION INFORMATION
+Combat Sports Analysis may use Stripe, Apple, Google, or another authorized payment provider to
+process subscriptions and payments, depending on the applicable purchase method.
+Payment providers may collect information necessary to process transactions, including:
+•
+Payment-card information;
+•
+Billing information;
+•
+Transaction information;
+•
+Payment identi ers; and
+•
+Fraud-prevention information.
+Combat Sports Tech does not necessarily receive or store complete payment-card details.
+We may receive limited transaction information, such as:
+Subscription status;
+Payment status;
+Amount paid;
+
+fi
+
+fi
+
+•
+•
+•
+
+•
+Transaction date; and
+•
+Transaction identi er.
+Payment information processed directly by a third-party payment provider is subject to that
+provider's applicable privacy policy and terms.
+
+10. DEVICE AND TECHNICAL INFORMATION
+The application and its supporting technical service providers may automatically collect or process
+certain technical information.
+Depending on the technologies incorporated into the Service, this may include:
+•
+Device type;
+•
+Operating system;
+•
+Application version;
+•
+IP address;
+•
+Application or device identi ers;
+•
+Crash information;
+•
+Diagnostic information;
+•
+Technical logs; and
+•
+Application-performance information.
+This information may be used to:
+•
+•
+•
+•
+•
+•
+•
+
+Operate and maintain the Service;
+Maintain security;
+Detect and prevent abuse;
+Identify technical issues;
+Troubleshoot errors;
+Improve reliability; and
+Monitor application performance.
+
+11. HOW WE USE INFORMATION
+Combat Sports Tech may use the limited information available to us for legitimate business,
+operational, legal, and security purposes.
+These purposes may include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Creating and administering accounts;
+Managing subscriptions;
+Providing account-related services;
+Providing customer support;
+Maintaining security;
+Detecting and preventing fraud or abuse;
+Resolving account-related issues;
+Communicating important information about the Service;
+Improving reliability and functionality;
+Complying with applicable laws and legal obligations; and
+Protecting Combat Sports Tech, our users, and the Service.
+
+fi
+
+fi
+
+12. THIRD-PARTY SERVICE PROVIDERS
+
+Combat Sports Analysis may use trusted third-party service providers to operate and support certain
+aspects of the Service.
+These providers may provide services such as:
+•
+Payment processing;
+•
+Hosting;
+•
+Cloud storage;
+•
+Database infrastructure;
+•
+Authentication;
+•
+Analytics;
+•
+Push noti cations;
+•
+Cybersecurity;
+•
+Technical monitoring;
+•
+Crash reporting; and
+•
+Other application infrastructure.
+Third-party providers may process information as necessary to provide their services.
+Their access to information is governed by applicable contractual obligations, security controls, and
+legal requirements.
+
+13. SALE OR SHARING OF PERSONAL INFORMATION
+Combat Sports Tech LLC does not sell users' personal information for money.
+We also do not sell users' private:
+•
+Workout information;
+•
+Performance data;
+•
+Questionnaire responses;
+•
+Injury information;
+•
+Nutrition information; or
+•
+Uploaded training videos.
+If our practices concerning the sale or sharing of personal information materially change, this
+Privacy Policy will be updated and any rights required by applicable law will be provided.
+
+14. DATA RETENTION
+We may retain information for as long as reasonably necessary to operate the Service, provide
+requested features, comply with legal obligations, resolve disputes, maintain security, and satisfy
+legitimate operational requirements.
+Retention periods may depend on:
+
+fi
+
+•
+•
+•
+•
+•
+•
+•
+
+Whether your account remains active;
+The type and nature of the information;
+Technical and operational requirements;
+Payment and accounting requirements;
+Security and fraud-prevention requirements;
+Applicable legal obligations;
+Disputes; and
+
+•
+Other legitimate business requirements.
+When information is no longer reasonably required, it may be deleted or anonymized where
+appropriate and technically feasible, subject to applicable legal and operational requirements.
+
+15. SUBSCRIPTION CANCELLATION AND ACCOUNT
+DELETION
+Cancelling a Combat Sports Analysis subscription generally stops future subscription renewals in
+accordance with the applicable subscription terms.
+Cancelling a subscription does not automatically delete your account or information associated
+with the account.
+Similarly, uninstalling the Combat Sports Analysis application from your device does not
+necessarily delete your account or stored information.
+Where applicable law provides a right to request deletion, users may submit a valid deletion request
+in accordance with Section 16 of this Privacy Policy.
+
+16. DATA DELETION AND PRIVACY RIGHTS
+Depending on your location and applicable privacy laws, you may have certain rights regarding
+your personal information.
+These rights may include the right to:
+•
+Request access to personal information;
+•
+Request correction of inaccurate information;
+•
+Request deletion of personal information;
+•
+Request information regarding how personal information is collected and used;
+•
+Object to or restrict certain processing where applicable; and
+•
+Exercise other privacy rights provided by applicable law.
+Combat Sports Tech will process valid privacy requests in accordance with applicable law.
+Certain information may be retained where permitted or required by law, including information
+necessary for:
+•
+•
+•
+•
+•
+•
+
+Payment and accounting records;
+Fraud prevention;
+Security;
+Legal compliance;
+Resolving disputes; or
+Establishing, exercising, or defending legal claims.
+
+17. DATA SECURITY
+Combat Sports Tech takes the privacy and security of user information seriously.
+We use, and require appropriate service providers to use, reasonable administrative, organizational,
+and technical safeguards designed to protect information against unauthorized access, loss, misuse,
+alteration, or disclosure.
+
+However, no mobile application, internet transmission, server, database, cloud-storage system, or
+electronic storage method can be guaranteed to be completely secure.
+You are responsible for maintaining the security of your account credentials and the devices you use
+to access the Service.
+
+18. CHILDREN'S PRIVACY
+Combat Sports Analysis is not intended for children under 13.
+We do not knowingly seek to collect personal information from children under 13.
+If we become aware that personal information has been collected from a child under 13 in
+circumstances where such collection is not legally permitted, we will take reasonable steps to delete
+the information.
+
+19. CALIFORNIA PRIVACY RIGHTS
+California residents may have certain rights under applicable California privacy laws.
+Depending on the circumstances and applicable law, these rights may include the right to:
+•
+Know the categories of personal information collected;
+•
+Know how certain personal information is used or disclosed;
+•
+Request access to certain personal information;
+•
+Request correction of inaccurate personal information;
+•
+Request deletion of certain personal information;
+•
+Opt out of certain sales or sharing of personal information;
+•
+Limit certain uses or disclosures of sensitive personal information where applicable; and
+•
+Exercise applicable privacy rights without unlawful discrimination.
+The speci c rights available to you depend on applicable law and the circumstances of your request.
+
+20. USERS OUTSIDE THE UNITED STATES
+Combat Sports Analysis may be made available to users located outside the United States.
+Information may be processed or stored in the United States or other countries in which Combat
+Sports Tech or its service providers operate.
+Privacy and data-protection laws vary between jurisdictions.
+Where required by applicable law, we will implement appropriate measures relating to the
+processing and international transfer of personal information.
+
+21. CHANGES TO THIS PRIVACY POLICY
+We may update this Privacy Policy from time to time to re ect:
+Changes to Combat Sports Analysis;
+Changes to our technical infrastructure;
+Changes to service providers;
+
+fl
+
+fi
+
+•
+•
+•
+
+•
+Changes to our business practices; or
+•
+Changes in applicable laws and regulations.
+The “Last Updated” date at the beginning of this Privacy Policy indicates the most recent revision.
+Where required by applicable law, we will provide appropriate notice regarding material changes.
+
+22. CONTACT US
+If you have questions regarding this Privacy Policy, your personal information, your account, or
+your privacy rights, please contact Combat Sports Tech LLC through the of cial support channel
+provided within the Combat Sports Analysis application or on the applicable of cial website.
+
+fi
+
+fi
+
+By accessing or using Combat Sports Analysis, you acknowledge that you have read and
+understood this Privacy Policy.
+
+

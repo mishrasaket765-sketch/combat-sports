@@ -1,0 +1,481 @@
+TERMS & CONDITIONS
+Effective Date: September 4, 2026
+Last Updated: September 4, 2026
+These Terms & Conditions (“Terms”) govern your access to and use of the Combat Sports
+Analysis mobile application and all related websites, products, features, content, and services
+(collectively, the “Service”).
+The Service is owned and operated by Combat Sports Tech LLC (“Combat Sports Tech,” “we,”
+“us,” or “our”).
+By downloading, installing, accessing, registering for, purchasing a subscription to, or otherwise
+using the Service, you acknowledge that you have read, understood, and agree to be legally bound
+by these Terms. If you do not agree to these Terms, you must not access or use the Service.
+
+1. ELIGIBILITY AND MINIMUM AGE
+You must be at least 13 years old to create an account, subscribe to, access, or use the Service.
+If you are under the age of majority in your jurisdiction, you may use the Service only with the
+permission and supervision of a parent or legal guardian.
+The Service is not intended for children under 13.
+By using the Service, you represent that you meet the applicable age requirements and have the
+legal capacity to agree to these Terms.
+
+2. ABOUT THE SERVICE
+Combat Sports Analysis is a performance-tracking and sports-analysis application primarily
+designed for individuals participating in combat sports, martial arts, training, conditioning, and
+related physical activities.
+Depending on the features available at the time, the Service may include:
+
+fi
+
+•
+Workout and training logs;
+•
+Performance questionnaires;
+•
+Performance ratings and scores;
+•
+Statistics, charts, and graphs;
+•
+Performance trends and comparisons;
+•
+Sparring and training information;
+•
+Training goals;
+•
+Video and image uploads;
+•
+Training and performance analysis;
+•
+Injury-related information;
+•
+Nutrition and tness information; and
+•
+Other performance-tracking and analytical features.
+We reserve the right to introduce, modify, update, suspend, replace, or discontinue features of the
+Service at any time.
+
+3. NOT MEDICAL ADVICE
+Combat Sports Analysis is a sports-performance and information platform and is not a medical
+service or healthcare provider.
+Any information relating to injuries, pain, fatigue, recovery, physical condition, nutrition, training
+readiness, or similar matters is provided solely for general informational and educational purposes.
+Nothing contained within the Service constitutes:
+•
+•
+•
+•
+•
+
+Medical advice;
+A medical diagnosis;
+Medical treatment;
+A professional healthcare recommendation; or
+A determination that you are medically t to train, spar, compete, or participate in physical
+activity.
+You should consult an appropriately quali ed healthcare professional regarding any injury, medical
+condition, unusual symptom, or concern regarding your ability to safely participate in training or
+competition.
+In an emergency, contact the appropriate emergency services or seek immediate medical assistance.
+
+4. COMBAT SPORTS AND PHYSICAL ACTIVITY RISKS
+Combat sports, martial arts, sparring, competition, strength training, conditioning, and other
+physical activities involve inherent and potentially serious risks.
+These risks may include, without limitation:
+•
+Cuts and bruises;
+•
+Sprains and strains;
+•
+Fractures;
+•
+Joint injuries;
+•
+Concussions;
+•
+Traumatic brain injuries;
+•
+Spinal injuries;
+•
+Permanent disability;
+•
+Paralysis; and
+•
+Death.
+Combat Sports Tech does not supervise your training and does not determine whether any exercise,
+technique, training session, sparring activity, training partner, opponent, competition, facility,
+equipment, or training environment is safe or appropriate for you.
+You are solely responsible for your decisions regarding physical activity, training, sparring,
+competition, protective equipment, coaching, supervision, and medical clearance.
+
+fi
+
+fi
+
+To the maximum extent permitted by applicable law, you voluntarily assume the risks associated
+with your participation in combat sports, martial arts, exercise, and physical training.
+
+5. USER ACCOUNTS
+Certain features of the Service may require you to create an account.
+You agree to provide accurate, complete, and current information when creating and maintaining
+your account.
+You are responsible for:
+•
+Maintaining the con dentiality of your login credentials;
+•
+Protecting access to your account;
+•
+Ensuring the information associated with your account remains accurate; and
+•
+All activity occurring through your account.
+You must promptly notify us if you believe your account has been compromised or accessed
+without authorization.
+You may not knowingly permit another person to use your account in a manner that violates these
+Terms.
+
+6. USER-PROVIDED INFORMATION
+The Service relies substantially on information entered, uploaded, or otherwise provided by users.
+You are responsible for the accuracy, completeness, and legality of information you provide,
+including:
+•
+Workout and training information;
+•
+Performance ratings;
+•
+Questionnaire responses;
+•
+Sparring information;
+•
+Injury-related information;
+•
+Training goals;
+•
+Videos and images; and
+•
+Other information submitted through the Service.
+Any statistics, reports, recommendations, or analyses generated by the Service may be inaccurate,
+incomplete, or misleading if the information provided by you is incomplete, inaccurate, outdated, or
+incorrect.
+
+7. PERFORMANCE DATA AND ANALYSIS
+The Service may generate scores, ratings, averages, trends, statistics, graphs, comparisons, reports,
+and other analytical outputs based on information associated with your account.
+These outputs are intended to help you organize and understand information you have recorded.
+You acknowledge that such outputs are not guaranteed to accurately represent your:
+Athletic ability;
+Fighting ability;
+Physical condition;
+Fitness level;
+
+fi
+
+•
+•
+•
+•
+
+•
+Health;
+•
+Competition readiness; or
+•
+Future performance.
+You should not rely solely on information generated by the Service when making decisions
+regarding training, competition, medical care, or physical activity.
+
+8. USER CONTENT
+The Service may allow you to upload, submit, store, transmit, or otherwise provide videos, images,
+notes, training records, and other materials (“User Content”).
+You retain ownership of User Content that you own.
+By uploading User Content, you grant Combat Sports Tech a limited, non-exclusive, worldwide,
+royalty-free right to host, store, transmit, process, reproduce, and technically modify such content to
+the extent reasonably necessary to operate, maintain, secure, and provide the Service.
+This license does not transfer ownership of your User Content to Combat Sports Tech.
+You represent and warrant that you have all rights, permissions, licenses, and authorizations
+necessary to upload and use your User Content through the Service.
+
+9. VIDEO RECORDING AND THIRD-PARTY RIGHTS
+Training and sparring videos may contain training partners, coaches, competitors, spectators, or
+other individuals.
+You are solely responsible for obtaining any consent, permission, release, or other legal
+authorization required to record, upload, store, or share content containing another person.
+You must not upload or use content in connection with the Service in a manner that violates another
+person's:
+
+fi
+
+•
+Privacy rights;
+•
+Intellectual-property rights;
+•
+Publicity rights;
+•
+Con dentiality rights; or
+•
+Other legal rights.
+Combat Sports Tech does not routinely review uploaded training videos. However, uploaded
+content may be accessed or processed by personnel, contractors, or technical service providers
+where reasonably necessary for technical operations, security, troubleshooting, abuse prevention,
+legal compliance, or protection of the Service and its users.
+
+10. SUBSCRIPTIONS AND PAYMENTS
+Certain features of the Service may require a paid subscription.
+Payments may be processed through Stripe, Apple App Store, Google Play, or another authorized
+payment provider, depending on the method through which you purchase the Service.
+By purchasing a subscription, you authorize the applicable payment provider to charge your
+selected payment method for the applicable subscription price, taxes, and other disclosed charges.
+Unless otherwise stated at the time of purchase, subscriptions may automatically renew until
+cancelled.
+You are responsible for cancelling your subscription before the applicable renewal date if you do
+not wish to continue the subscription.
+Deleting or uninstalling the mobile application does not automatically cancel a subscription.
+Except where required by applicable law or expressly stated otherwise, subscription payments
+already made are non-refundable.
+Subscription prices may change from time to time. Where required by applicable law, we will
+provide appropriate notice before a price change takes effect.
+
+11. CANCELLATION AND TERMINATION OF
+SUBSCRIPTIONS
+You may cancel your subscription using the cancellation method provided by the applicable
+payment platform or subscription provider.
+Cancellation generally prevents future renewals but does not necessarily result in an immediate
+refund.
+Unless otherwise required by law, you may continue to access paid features through the remainder
+of the subscription period for which you have already paid.
+Cancelling a subscription does not automatically delete your account or information associated with
+your account.
+
+12. ACCEPTABLE USE
+You agree to use the Service only for lawful purposes and in accordance with these Terms.
+You must not:
+1.
+2.
+3.
+4.
+5.
+6.
+
+Violate any applicable law or regulation;
+Harass, threaten, stalk, exploit, or abuse another person;
+Upload content you do not have the legal right or authorization to use;
+Infringe another person's intellectual-property, privacy, publicity, or other rights;
+Upload malicious software, viruses, or harmful code;
+Attempt to access another user's account without authorization;
+
+7.
+8.
+9.
+10.
+11.
+12.
+
+Interfere with or compromise the security or operation of the Service;
+Circumvent security measures or access restrictions;
+Impersonate another person or entity;
+Use another person's account without authorization;
+Use the Service to facilitate unlawful activity; or
+Otherwise misuse the Service in a manner that could materially harm Combat Sports Tech,
+the Service, another user, or any third party.
+
+13. INTELLECTUAL PROPERTY
+Except for User Content and third-party materials, all rights, title, and interest in and to the Service
+are owned by or licensed to Combat Sports Tech LLC.
+This includes, without limitation:
+•
+Software and source code;
+•
+Application designs;
+•
+User interfaces;
+•
+Graphics;
+•
+Text;
+•
+Databases;
+•
+Logos;
+•
+Trademarks;
+•
+Branding;
+•
+Documentation; and
+•
+Other proprietary materials.
+Your use of the Service does not transfer any ownership rights to you.
+Subject to your compliance with these Terms, Combat Sports Tech grants you a limited, personal,
+non-exclusive, non-transferable, non-sublicensable right to access and use the Service for its
+intended purposes.
+
+14. THIRD-PARTY SERVICES
+The Service may rely on third-party providers for services such as:
+
+fi
+
+•
+Payment processing;
+•
+Cloud hosting;
+•
+Data storage;
+•
+Analytics;
+•
+Authentication;
+•
+Push noti cations;
+•
+Security;
+•
+Infrastructure; and
+•
+Other technical services.
+Third-party services may be governed by their own terms, conditions, privacy policies, and
+practices.
+
+Combat Sports Tech is not responsible for the independent acts, omissions, policies, or availability
+of third-party service providers, except as otherwise required by applicable law.
+
+15. MOBILE APPLICATION AND SERVICE
+AVAILABILITY
+We strive to maintain a reliable and secure Service; however, we do not guarantee that the Service
+will always be available, uninterrupted, timely, secure, or error-free.
+Availability may be affected by:
+•
+Scheduled or emergency maintenance;
+•
+Application updates;
+•
+Internet connectivity;
+•
+Device compatibility;
+•
+Third-party service outages;
+•
+Infrastructure failures;
+•
+Security incidents;
+•
+Software defects; or
+•
+Other circumstances beyond our reasonable control.
+We reserve the right to modify, suspend, restrict, or discontinue any portion of the Service where
+reasonably necessary.
+
+16. ACCOUNT SUSPENSION AND TERMINATION
+We may restrict, suspend, or terminate your access to the Service where reasonably necessary,
+including where we believe you have:
+•
+Materially violated these Terms;
+•
+Failed to make required payments;
+•
+Engaged in fraudulent activity;
+•
+Created a security risk;
+•
+Engaged in unlawful activity; or
+•
+Seriously or repeatedly misused the Service.
+Where appropriate and reasonably practicable, we may provide notice before taking such action.
+
+17. DISCLAIMER OF WARRANTIES
+To the maximum extent permitted by applicable law, the Service is provided on an “AS IS” and
+“AS AVAILABLE”basis.
+Combat Sports Tech does not warrant that:
+•
+•
+•
+•
+•
+•
+
+The Service will always be available;
+The Service will be uninterrupted;
+The Service will be completely secure;
+The Service will be error-free;
+Data or content will always be accurate or complete; or
+The Service will meet every user's particular requirements.
+
+Nothing in these Terms excludes or limits any consumer warranties, statutory rights, or protections
+that cannot legally be excluded or limited.
+
+18. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, Combat Sports Tech LLC and its members,
+of cers, employees, contractors, af liates, and service providers will not be liable for any indirect,
+incidental, special, consequential, exemplary, or punitive damages arising out of or relating to your
+use of, or inability to use, the Service.
+Combat Sports Tech is not responsible for injuries, losses, or damages resulting from a user's
+decision to participate in combat sports, martial arts, exercise, sparring, competition, or other
+physical activities.
+Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited under
+applicable law.
+
+19. INDEMNIFICATION
+To the extent permitted by applicable law, you agree to indemnify, defend, and hold harmless
+Combat Sports Tech LLC and its members, of cers, employees, contractors, af liates, and service
+providers from and against third-party claims, liabilities, damages, losses, costs, and expenses
+arising from or relating to:
+•
+•
+•
+•
+
+Your unlawful use of the Service;
+Your material violation of these Terms;
+Your User Content; or
+Your violation of another person's rights.
+
+20. CHANGES TO THESE TERMS
+We may update these Terms from time to time to re ect changes to the Service, our business
+practices, technology, or applicable laws and regulations.
+The “Last Updated” date at the beginning of these Terms will indicate when the Terms were most
+recently revised.
+Where required by applicable law, we will provide additional notice before material changes
+become effective.
+Your continued use of the Service following the effective date of revised Terms constitutes
+acceptance of the updated Terms, to the extent permitted by law.
+
+21. GOVERNING LAW
+These Terms are governed by and construed in accordance with the laws of the State of California,
+United States, without regard to its con ict-of-law principles.
+
+fi
+
+fl
+
+fi
+
+fl
+
+fi
+
+fi
+
+Nothing in this section is intended to deprive consumers of mandatory consumer-protection rights
+available under the laws of their jurisdiction.
+
+22. SEVERABILITY
+If any provision of these Terms is determined to be unlawful, invalid, or unenforceable, that
+provision will be enforced to the maximum extent permitted by applicable law, and the remaining
+provisions will remain in full force and effect.
+
+23. ENTIRE AGREEMENT
+These Terms, together with any applicable policies or additional terms expressly incorporated by
+reference, constitute the agreement between you and Combat Sports Tech concerning your use of
+the Service and supersede prior agreements or understandings concerning the same subject matter,
+to the extent permitted by law.
+
+24. CONTACT
+If you have questions regarding these Terms, the Service, your account, or your subscription, please
+contact Combat Sports Tech LLC through the of cial support channel provided within the
+application or on the applicable of cial website.
+
+fi
+
+fi
+
+By creating an account, purchasing a subscription, downloading, accessing, or using Combat
+Sports Analysis, you acknowledge that you have read and agree to these Terms & Conditions.
+
+
