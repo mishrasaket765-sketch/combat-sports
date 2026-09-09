@@ -31,7 +31,7 @@ export function AboutHero({
     : "/assets/abouthero.png";
 
   return (
-    <section className="relative isolate h-[90vh] overflow-hidden bg-[#050505]">
+    <section className="relative isolate h-[70vh] overflow-hidden bg-[#050505]">
       {/* Background Image */}
       <div className="absolute inset-0 -z-20">
         <Image
@@ -72,11 +72,6 @@ export function AboutHero({
 
           {/* Accent Line */}
           <div className="mt-7 h-1 w-[30%] bg-[#D20A12]" />
-
-          {/* Description */}
-          <p className="mt-7 max-w-2xl text-base font-medium leading-7 text-[#ffffff] sm:text-md sm:leading-6 lg:text-lg">
-            {description}
-          </p>
         </div>
       </div>
     </section>

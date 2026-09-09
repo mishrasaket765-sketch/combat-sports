@@ -50,14 +50,16 @@ export function Navbar() {
           </nav>
 
           <div className="flex items-center justify-end gap-3">
-            <div className="hidden items-center gap-3 rounded-full border border-[#262626] bg-[#0D0D0D] px-4 py-2.5 sm:flex">
-              <Link
+               <Link
                 href="/contact"
                 className="text-[10px] font-bold uppercase tracking-[.14em] !text-[#F5F5F5] transition-colors hover:!text-[#F01820]"
               >
+            <div className="hidden items-center gap-3 rounded-full border border-[#262626] bg-[#0D0D0D] px-4 py-2.5 sm:flex">
+           
                 {site.supportText}
-              </Link>
+              
             </div>
+            </Link>
 
             <button
               aria-label={open ? "Close menu" : "Open menu"}
