@@ -1,6 +1,5 @@
 import { Hero } from "@/components/Hero";
 import { Footer } from "@/components/Footer";
-import { SectionHeading } from "@/components/SectionHeading";
 import { Button } from "@/components/Button";
 import { analysisCards, pillars } from "@/lib/site";
 import { Navbar } from "@/components/Navbar";
