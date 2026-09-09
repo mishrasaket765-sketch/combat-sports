@@ -1,7 +1,5 @@
 import { Hero } from "@/components/Hero";
 import { Footer } from "@/components/Footer";
-import { Button } from "@/components/Button";
-import { analysisCards, pillars } from "@/lib/site";
 import { Navbar } from "@/components/Navbar";
 import { VisualFeatureSection } from "@/components/VisualFeatureSection";
 import CombatGallerySection from "@/components/CombatGallerySection";
