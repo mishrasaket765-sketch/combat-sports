@@ -82,7 +82,7 @@ export function Footer() {
           </span>
 
           <span>
-            Performance intelligence · built for combat sports
+            © Created By Dial For Web
           </span>
         </div>
       </div>
