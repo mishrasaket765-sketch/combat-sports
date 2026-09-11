@@ -18,6 +18,8 @@ export const metadata = {
     "Learn more about Combat Sports Analysis and how our platform helps combat sports athletes measure performance, track progress, set goals, analyze training, and improve.",
 };
 
+export const revalidate = 60;
+
 export default async function AboutPage() {
   const data = await getAbout();
 

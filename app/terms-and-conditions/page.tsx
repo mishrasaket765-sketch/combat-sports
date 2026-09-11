@@ -15,6 +15,8 @@ export const metadata = {
     "Terms & Conditions governing the use of Combat Sports Analysis.",
 };
 
+export const revalidate = 60;
+
 export default async function TermsPage() {
   const data = await getTerms();
 
